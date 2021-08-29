@@ -12,7 +12,7 @@ export default function Intro() {
         <div className="intro" id="intro">
             <div className="left">
                 <div className="imageContainer">
-                    <img src="images/myself.png" />
+                    <img src="images/myself.png" alt="myself"/>
                 </div>
 
             </div>
@@ -26,7 +26,7 @@ export default function Intro() {
 
                 </div>
                 <a href="#portfolio">
-                    <img src="images/finger.png" />
+                    <img src="images/finger.png" alt="arrow"/>
                 </a>
             </div>
         </div>
