@@ -12,10 +12,7 @@ function Menu({menuOpen, setMenuOpen}) {
                     <a href="#portfolio" > Portfolio </a>
                 </li>
                 <li onClick={()=> setMenuOpen(false)}>
-                    <a href="#works" > Works </a>
-                </li>
-                <li onClick={()=> setMenuOpen(false)}> 
-                    <a href="#testimonials" >Testimonial</a>
+                    <a href="#works" > About Me </a>
                 </li>
                 <li onClick={()=> setMenuOpen(false)}>
                     <a href="#contact" > Contact </a>
